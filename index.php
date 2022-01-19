@@ -70,16 +70,3 @@
     </main>
 </body>
 </html>
-
-
-
-
-        <!-- <?php 
-            // foreach($faqs as $array){ 
-            //     echo "<h2>{$array["question"]}</h2>";
-            //     echo "<div>{$array["answare"]}</div>";
-            //     foreach($array as $info){
-            //         echo "<p>{$info}</p>";
-            //     } 
-            // }
-            ?> -->
